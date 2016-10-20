@@ -1,0 +1,23 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "*",
+    "cookie-parser": "*",
+    "body-parser": "*",
+    "debug": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongodb": "^2.2.9",
+    "mongoose": "*",
+    "morgan": "*",
+    "nodemon": "*"
+  },
+  "author": "Kit",
+  "license": "GPL-3.0"
+}
